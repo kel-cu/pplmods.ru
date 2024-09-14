@@ -1,0 +1,325 @@
+:root {
+    --background: #09090b;
+    --base-color: #257570;
+    --alpha-base-color: #134e4a73;
+    --font-color: #ffffff;
+
+    --blockquote-background: #134e4a1e;
+    --blockquote: #134e4a;
+
+    --scrollbar-background: #0000007f;
+    --scrollbar-color: var(--base-color);
+    
+    --button-background: #fff;
+    --button-color: #000;
+
+    --button-background-focus: var(--base-color);
+    --button-color-focus: var(--font-color);
+}
+
+html {
+    box-sizing: border-box;
+    background-image: url("/assets/back.png");
+    background-color: var(--background);
+    background-repeat: repeat;
+    font-family: "Source Code Pro", monospace;
+    color: var(--font-color);
+}
+.project{
+    border-radius: 8pt;
+}
+
+body {
+    background-color: var(--background);
+    width: 95%;
+    max-width: 750pt;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top:2pt;
+    padding-bottom:0;
+    margin-top:0;
+    margin-bottom:0;
+}
+
+body,
+button,
+input,
+select {
+    font: 12pt/1.33 "Source Code Pro", monospace;
+}
+
+/* Шапка */
+header{
+    margin-bottom: 15pt;
+}
+
+.header .container {
+    padding: 0 5pt;
+}
+
+.header {
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    border-bottom: solid 0.20pc var(--base-color);
+}
+
+.header .container .inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header .container .inner #icon {
+    height: 30pt;
+    margin: 0;
+    margin-left: 5pt;
+    margin-right: 0;
+}
+.header .container .inner #account {
+    height: 30pt;
+    margin: 0;
+    margin-left: 5pt;
+    margin-right: 0;
+}
+
+.header .container .inner .list {
+    display: flex;
+    list-style: none;
+}
+
+.header .container .inner .list .item {
+    margin-right: 5pt;
+}
+
+.header .container .inner .list .item .link {
+    padding: 10pt;
+    font-size: 14pt;
+    color: var(--font-color);
+    text-decoration: none;
+}
+/* .header .container .inner .list .item .link a img{
+    height: 15pt;
+} */
+/* .header .container .inner .list .item .link{
+    padding-bottom: 0;
+} */
+
+.header .container .inner .list .item .link:hover {
+    color: var(--base-color);
+}
+
+/* Ботинки */
+footer{
+    margin-top: 15pt;
+}
+
+.footer .container {
+    padding: 0 5pt;
+}
+
+.footer {
+    padding-top: 5pt;
+    padding-bottom: 5pt;
+    border-top: solid 0.20pc var(--base-color);
+}
+
+.footer .container .inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer .container .inner p {
+    font-size: 14pt;
+}
+
+.footer .container .inner .list {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+}
+
+.footer .container .inner .list .item {
+    margin-right: 5pt;
+}
+
+.footer .container .inner .list .item .link {
+    padding: 10pt 20pt;
+    font-size: 14pt;
+    color: var(--font-color);
+    text-decoration: none;
+}
+.footer .container .inner p {
+    font-size: 14pt;
+}
+
+.footer .container .inner .list .item .link:hover {
+    color: var(--base-color);
+}
+
+/* База */
+p, pre, h1, h2, h3, h4, h5, h6, label {
+    margin: 8pt;
+    margin-left: 16pt;
+    margin-right: 8pt;
+    padding-right: 10pt;
+}
+
+blockquote p, blockquote a, blockquote img, blockquote details, blockquote iframe, blockquote pre, blockquote h1, blockquote h2, blockquote h3, blockquote h4, blockquote h5, blockquote h6 {
+    margin-left: 16pt;
+}
+blockquote p a, blockquote p img, blockquote p a img, blockquote h1 a, blockquote h2 a, blockquote h3 a, blockquote h4 a, blockquote h5 a, blockquote h6 a{
+    margin-left: 0;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    margin-right: 16pt;
+}
+
+h1 {
+    font-size: 20pt;
+}
+h2 {
+    font-size: 18pt;
+}
+h3 {
+    font-size: 16pt;
+}
+h4 {
+    font-size: 14pt;
+}
+h5 {
+    font-size: 12pt;
+}
+h6 {
+    font-size: 10pt;
+}
+
+img,
+iframe {
+    margin: 8pt;
+    margin-left: 16pt;
+    margin-right: 16pt;
+}
+
+p img,
+p iframe {
+    margin-left: 0pt;
+    margin-right: 0pt;
+}
+
+a {
+    color: var(--font-color);
+    text-decoration: none;
+}
+a:hover {
+    color: var(--base-color);
+    text-decoration: underline dashed;
+}
+
+/* scroller */
+
+* {
+    scrollbar-width: thin;
+    scrollbar-color: var(--scrollbar-color) var(--scrollbar-background);
+}
+
+*::-webkit-scrollbar {
+    height: 12px;
+    width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+    background: var(--scrollbar-color);
+}
+
+*::-webkit-scrollbar-thumb {
+    background-color: var(--scrollbar-color);
+    border-radius: 5px;
+    border: 3px solid var(--scrollbar-background);
+}
+/* pre */
+
+pre {
+    background: #000;
+    color: var(--kel);
+    margin-right: 16pt;
+    /* width: 350px; */
+    padding:10px; 
+    font-size: 16px;
+    border: solid 0.20pc var(--base-color);
+}
+pre code {
+    padding: 3pt;
+    border: none;
+    background-color: none;
+}
+
+/* details */
+
+details {
+    margin: 8pt;
+    margin-left: 16pt;
+    margin-right: 8pt;
+    padding-right: 10pt;
+}
+
+/*  */
+
+blockquote {
+    margin-left: 16pt;
+    margin-right: 16pt;
+    padding: 0.5pt 0 0.5pt 0;
+    border-left: solid 0.20pc var(--blockquote);
+    background: var(--blockquote-background);
+}
+
+hr{
+    margin-right: 8pt;
+    margin-left: 8pt;
+    border-color: var(--alpha-base-color)
+}
+
+p code{
+    background: var(--alpha-base-color);
+    padding-left: 4pt;
+    padding-right: 4pt;
+    border-radius: 4pt;
+}
+
+button, input, select {
+    
+    margin: 8pt;
+    margin-left: 16pt;
+    margin-right: 8pt;
+    padding-right: 10pt;
+
+    border: none;
+    border-radius: 5pt;
+    padding: 5pt;
+    font-size: 12pt;
+
+    background-color: var(--button-background);
+    color: var(--button-color);
+}
+label{
+    font-size: 12pt;
+}
+button:hover, input:hover, select:hover, button:focus, input:focus, select:focus {
+    border: none;
+    stroke: none;
+    background-color: var(--button-background-focus);
+    color: var(--button-color-focus);
+}
+
+textarea {
+    margin: 8pt;
+    margin-left: 10pt;
+    margin-right: 12pt;
+    margin-bottom: 0;
+    max-width: 94.6%;
+    min-width: 94.6%;
+    width: 94.6%;
+    max-height: max-content;
+    min-height: 500pt;
+}

@@ -1,0 +1,129 @@
+[
+    {
+        "type": "pack",
+        "icon": "https://wf.kelcu.ru/logos/ppl7.png",
+        "title": "Официальный пак PepeLand'а",
+        "description": "Пак смайлов и предметов, используемый на сервере",
+        "url": "https://pepeland.net/wiki/game/resourcepack"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/ddTUVHce/4cdb11ef2ed93c0afd98fbc40eb4a1fb2b6d2787_96.webp",
+        "title": "PepeLand Totems",
+        "author": "felug0z, Sintipon",
+        "description": "Пак, добавляющий тотемы игроков",
+        "url": "https://modrinth.com/project/ddTUVHce"
+    },
+    {
+        "type": "mod",
+        "icon": "https://cdn.modrinth.com/data/lOMJjkKe/40365229a2ae8ed499fc8a6e82ed32e5cb31d6b4_96.webp",
+        "title": "Action Bar Info",
+        "author": "Kel Cuprum",
+        "description": "Мод, который выводит координаты над хот-баром",
+        "url": "https://modrinth.com/project/abi"
+    },
+    {
+        "type": "mod",
+        "icon": "https://cdn.modrinth.com/data/a0cJA11L/d16baa511f8bcae6b7a6450a7f63ca283a56dca2.png",
+        "title": "Pochatok",
+        "author": "TheEvilM",
+        "description": "Сборная солянка утилит",
+        "url": "https://modrinth.com/project/pochatok"
+    },
+    {
+        "type": "mod",
+        "icon": "https://cdn.modrinth.com/data/2q5rFYRG/0ceb3f2280e14a8f2dd0141a51718bbf3905a000.png",
+        "title": "PPL Pack Updater",
+        "author": "AndcoolSystems",
+        "description": "Авто-обновление официального пака PPL",
+        "url": "https://modrinth.com/project/ppl-pack-updater"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/oatKxln9/f6a23efb40cc18cc6d2ce48f76ece99e21eb6777_96.webp",
+        "title": "MS Mini PWGood",
+        "author": "f_gav",
+        "description": "Пак добавляющий Пугода к вам в инвентарь",
+        "url": "https://modrinth.com/project/pwhearts"
+    },
+    {
+        "type": "pack",
+        "icon": "https://i.imgur.com/wHn7mhs.jpeg",
+        "title": "pwgood3 totem",
+        "author": "midnEGGht's Avatar midnEGGht",
+        "description": "Пак заменяет тотем на PWGood3",
+        "url": "https://www.planetminecraft.com/texture-pack/pwgood3-totem/"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/iJJQakin/663a33b33a78dc0b0be961a67df71fe4304f8831.png",
+        "title": "PWHearts",
+        "author": "Reavel",
+        "description": "Пак, который заменяет сердца на шляпу Пугода",
+        "url": "https://modrinth.com/project/pwhearts"
+    },
+    {
+        "type": "mod",
+        "icon": "https://cdn.modrinth.com/data/Rp2mDwJm/db606baa4b3656cb9a264eb60fa79001db18a8da.png",
+        "title": "PWMod",
+        "author": "Ulter, CyCeK",
+        "description": "Мод о PWGood'е. Добавляет предметы, связанные с ним",
+        "url": "https://modrinth.com/project/pwgood-fanmod"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/jIM322bZ/97fbcc96b1cdb23851feb559cae7177e25521c3c.png",
+        "title": "PepeLandCustom",
+        "author": "CHEKM0B1LE, cizhik",
+        "description": "Пак добавляет множество различных 3D-объектов",
+        "url": "https://modrinth.com/project/pepelandcustom"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/Eo2XW3gI/34cacbdbd17f52a19cb3d62cf98611aa5e707f55.png",
+        "title": "Алмазы в деньги",
+        "author": "latynniy_tas",
+        "description": "Пак заменяет алмазы на голубые деньги (HMmm)",
+        "url": "https://modrinth.com/project/diamonds-to-money-(ppl)"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/ZGgRrr0A/222cb63479c7440da95e075a72e59246b9f6484e.png",
+        "title": "PwGood'ik",
+        "author": "k0ozochka",
+        "description": "Пак заменяет вексов на мини-версию Пугода",
+        "url": "https://modrinth.com/project/pwgooodik"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/EgjT16WK/d16a2a6b2bc32c39c4a052f665532ac01bd7aa65.png",
+        "title": "PwMace 2D",
+        "author": "k0ozochka",
+        "description": "Пак заменяет булаву на шляпу Пугода",
+        "url": "https://modrinth.com/project/pwmace-2d"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/JlwZXl9L/d16a2a6b2bc32c39c4a052f665532ac01bd7aa65_96.webp",
+        "title": "PwMace 3D",
+        "author": "k0ozochka",
+        "description": "Пак заменяет булаву на 3D шляпу Пугода",
+        "url": "https://modrinth.com/project/pwmace"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/yOWmCpCS/25c124131a7e1931c2216887cf5cb48be373362c.png",
+        "title": "PepePrikol",
+        "author": "eligutuhne",
+        "description": "Пак заменяет сердца, и частично ХУД. Также если у вас есть мод на Voice Chat, будут заменены иконки на смешных пепе",
+        "url": "https://modrinth.com/project/pepeprikol"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/zC0eZooH/6e8aa940e6dcb85932308b657d4cacccf8e1e589_96.webp",
+        "title": "PWTotem",
+        "author": "FA1545YT",
+        "description": "Пак заменяет тотем на Пепе с шляпой Пугода",
+        "url": "https://modrinth.com/project/"
+    }
+]
