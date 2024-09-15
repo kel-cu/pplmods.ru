@@ -124,6 +124,31 @@
         "title": "PWTotem",
         "author": "FA1545YT",
         "description": "Пак заменяет тотем на Пепе с шляпой Пугода",
-        "url": "https://modrinth.com/project/"
+        "url": "https://modrinth.com/project/pwtotems"
+    }
+    ,
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/16YVBWBn/1e212a957c2991fd17010899c1e0f08ac88842e3_96.webp",
+        "title": "sun cot (and moon) [scam]",
+        "author": "kuker.",
+        "description": "Пак заменяет солнце и луну на cot",
+        "url": "https://modrinth.com/project/scam"
+    },
+    {
+        "type": "pack",
+        "icon": "https://wf.kelcu.ru/icons/pplmods/penis.png",
+        "title": "Better clouds :)",
+        "author": "Okakuh",
+        "description": "Пак заменяет ванильные облака на лучший вариант",
+        "url": "https://www.planetminecraft.com/texture-pack/you-can-see/"
+    },
+    {
+        "type": "pack",
+        "icon": "https://wf.kelcu.ru/icons/pplmods/lurk.png",
+        "title": "Lurk-portal",
+        "author": "Okakuh",
+        "description": "Что происходит в эндер-портале??",
+        "url": "https://www.planetminecraft.com/texture-pack/-5965005/"
     }
 ]
