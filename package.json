@@ -1,7 +1,7 @@
 {
-  "name": "waterplayer.ru",
+  "name": "pplmods.ru",
   "version": "1.0.0",
-  "description": "WaterPlayer Site",
+  "description": "PPL Mods Site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
