@@ -3,6 +3,7 @@
         "type": "pack",
         "icon": "https://wf.kelcu.ru/logos/ppl7.png",
         "title": "Официальный пак PepeLand'а",
+        "author": "Jeherv, drt, Okakuh, Shvedoff, cloudy31_, Gamdav",
         "description": "Пак смайлов и предметов, используемый на сервере",
         "url": "https://pepeland.net/wiki/game/resourcepack"
     },
@@ -150,5 +151,22 @@
         "author": "Okakuh",
         "description": "Что происходит в эндер-портале??",
         "url": "https://www.planetminecraft.com/texture-pack/-5965005/"
+    },
+
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/8OxzER8g/7e6526834a2ece09f2004ba7f1a9048c98ef2618.png",
+        "title": "PepeSPLASH",
+        "author": "i_cozmo_cat",
+        "description": "Ресурс пак заменяющий ванильные сплэши на НАШИ, ПЕПЕЛЕНДОВСКИЕ!",
+        "url": "https://modrinth.com/project/pepesplash"
+    },
+    {
+        "type": "pack",
+        "icon": "https://cdn.modrinth.com/data/nH4myPO2/99879703316c1324814f82d2e47527448c811e3b_96.webp",
+        "title": "PEPEsounds",
+        "author": "dimondflowuly",
+        "description": "Мемный ресурспак со звуками от игроков пепеленда?",
+        "url": "https://modrinth.com/project/pepesounds-resource-pack"
     }
 ]
